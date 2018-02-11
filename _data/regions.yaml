@@ -1,0 +1,24 @@
+- name: Lowland
+  description: The region is known for producing lighter, smoother, non-smokey style of whiskies. Lowland malts are cited, by writers such as Charles MacLean, as being perfect for pre-dinner drinks. They are also excellent introductory malts and can be appreciated by beginners and experienced whisky drinkers alike – a triple distillation process is not uncommon to further enhance this characteristic.
+  style: Light, floral and fruity.
+  image: /img/regions/Lowlands.jpg
+
+- name: Highland
+  description: Fruitcake and oak flirt with heather and smoke in Highland Whiskies. This region, which encompasses the islands as well, probably has the greatest range of flavours, from the lighter style of the ‘midland’ malts all the way up through to the brinier coastal malts.
+  style: From the remote Distilleries of the Islands, whose character is infused by the ocean spray dashing against the ragged coastline, to the distilleries nestled in the corners of Highland glens, the differences all speak of individuality and pride -each one, unique.
+  image: /img/regions/Highlands.jpg
+
+- name: Islay
+  description: Islay currently has eight producing distilleries; creating some of the most famous and well known of all the whiskies available. It’s fair to say that Islay (pronounced ‘eye-luh’) lives and breathes whisky, indeed most of the island’s population is involved in its production in some way either through agriculture, distillation or distribution - to coping with the tourism that has grown from their popularity.
+  style: Big and smokey, full of character - 50 years ago, it was used primarily for adding flavor to blended scotch whisky - today, it is widely appreciated for its concentrated strength and flavor.
+  image: /img/regions/Islay.jpg
+
+- name: Speyside
+  description: The Whisky Manhattan. The most densely populated Whisky region in the world sits in a fertile valley of rivers and glens. Home to over half of Scotland’s distilleries, Speyside malts from these fifty or so distilleries are known for being frugal with peat and lavish with nutty fruit flavours.
+  style: Full bodied, rich and creamy. Well balanced from nose to tail. Many casks are matured in sweet sherry oak, which through further ageing/maturation imparts more influence on these fine spirits.
+  image: /img/regions/Speyside.jpg
+
+- name: Campbeltown
+  description: Campbeltown lies towards the end of the Mull of Kintyre peninsula on the West Coast and was once home to over 30 distilleries but contrary to its prolific history, now boasts only three coastal Whisky producers.
+  style: Robust, rich with lingering spices, traces of smoke and hints of honey. It balances the strengths of the Mull of Kintyre’s prominent location.
+  image: /img/regions/Campbeltown.jpg

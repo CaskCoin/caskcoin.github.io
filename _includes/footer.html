@@ -1,0 +1,21 @@
+  <footer>
+    <section id="contact" class="contact" vocab="http://schema.org/" typeof="Bakery">
+      <div class="container col-sm-12 text-center small">
+
+        <hr class="small">
+
+        <ul class="list-inline">
+          <li><a href="{{ site.url }}" property="url"><i class="fa fa-home fa-fw fa-3x"></i></a></span></li>
+          <li><a href="mailto:{{ site.email }}"><i class="fa fa-envelope fa-fw fa-3x"></i></a></li>
+          <li><a href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter fa-fw fa-3x"></i></a></li>
+          <li><a href="https://facebook.com/{{ site.facebook_username }}"><i class="fa fa-facebook fa-fw fa-3x"></i></a></li>
+          <li><a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github fa-fw fa-3x"></i></a></li>
+        </ul>
+
+        <hr class="small">
+
+        <p class="text-muted">Copyright &copy; {{ site.copyright }} {{ site.time | date: '%Y' }}</p>
+
+      </div>
+    </section>
+  </footer>

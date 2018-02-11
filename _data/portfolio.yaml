@@ -1,0 +1,59 @@
+- name: Aberlour
+  description: Aberlour Distillery was founded in 1879 by James Fleming, son of a local farmer. Located in the heart of the Speyside region, this Single Malt is renowned for its rich mellow flavour infused by Sherry wood maturation. Their malts regularly win many International awards. The distillery has passed through several owners until 2001, it was acquired by the Chivas Regal Group.
+  image: /img/portfolio/Aberlour.jpg
+
+- name: Banff
+  description: Banff Distillery was built James McWilliams &Co in 1824. It was located by Inverboyndie in the Speyside region. It had an unfortunate history suffering damage from several fires and a bombing from a German Junkers Ju-88! Taken over in 1932 by Scottish Malt Distillers, which in itself became part of the Diageo Group, closed for good in 1983, it succumbed to yet another fire in 1991 and was demolished. As a “Dead” Distillery, very few examples of this rare and excellent Speyside malt can be found on the market, leading to substantial premiums for discerning collectors.
+  image: /img/portfolio/Banff.png
+
+- name: Bowmore
+  description: Bowmore is a distillery that produces single malt Scotch Whisky on the isle of Islay, an island of the Inner Hebrides. The distillery, which lies on the South Eastern shore of Loch Indaal, is one of the oldest in Scotland and is said to have been established in 1779. The distillery is run by Morrison Bowmore Distillers Ltd, owned by Japanese drinks company Suntory . Their Single Malt is renowned the world over for its strong peaty flavour which is one of the most outstanding of all Islay Malts.
+  image: /img/portfolio/Bowmore.jpg
+
+- name: Bunnahabhain
+  description: Bunnahabhain Distillery too is located on the Island of Islay and was founded in 1881 at Port Askaig overlooking the “Paps of Jura”. Owned at one time by the owners of Macallan, Bunnahabhain is regarded as the smoothest of the Islay malts as a result of combining both the peaty malted barley grown on the Island and the lighter version from the Mainland. Currently owned by the Distell Group, South Africa.
+  image: /img/portfolio/Bunnahabhain.jpg
+
+- name: Caperdonich
+  description: Caperdonich Distillery in the Speyside region was J&J Grant’s second distillery venture after Glen Grant and opened in 1898. It was known by the locals as “Glen Grant 2”. However, it closed in 1902 and only returned to production in 1965 when it was purchased by Glenlivet Distillers, who in turn were acquired by Pernod Ricard in 2001. It was closed again in 2002 and demolished in 2010. As a result, vintages from this distillery reflecting the art of the famous J&J Grant family are exceedingly rare.
+  image: /img/portfolio/Caperdonich.jpg
+
+- name: Craggenmore
+  description: Craggenmore Distillery is included in Diagio’s as one of their six Classic Malts and is regarded by many as one of their best. It was founded in 1869 by John Smith and built on the land of the McPherson-Grants. Mr. Smith had previously been the Manager at The Macallan, The Glenlivet & Glenfarclas Distilleries and by 1869 had gained the reputation to allow him to establish his own distillery, close to Ballindalloch in the heart of the Speyside region.
+  image: /img/portfolio/Craggenmore.jpg
+
+- name: The Glenlivet
+  description: Goerge Smith founded the first "legal" distillery in Scotland. Granted the first Distillery licence by the Duke of Gordon in 1824, he was the pioneer of the Scotch Whisky Industry. However, it was not popular with other locals operating "illicit" distilleries who felt threatened by the possibly being taxed on their precious spirit that several threats on his life were made and he carried two pistols on himself to ward off any attackers. It is the second biggest Single Malt brand in the World. Currently owned and operated by the Chivas Regal Group it is located near Ballindaloch, Speyside
+  image: /img/portfolio/TheGlenlivet.jpg
+
+- name: GlenRothes
+  description: GlenRothes Distillery was founded in 1878 by James Stuart. Currently owned by Edrington, the owners of Macallan, and licenced to Berry Brothers & Rudd, it is generally released by vintage and not by an age statement. Perhaps the fact that the distillery has been plagued by several serious fires during its history, is that their stock profile has been affected by the loss of spirit.
+  image: /img/portfolio/GlenRothes.jpg
+
+- name: GlenGrant
+  description: The Glen Grant Distillery was founded in 1840 by the brothers John and James Grant, two former smugglers who decided to obtain a legitimate licence. The running of the distillery was taken over by their nephew Major John Grant, a legendary innovator that brought electric light to the distillery and was the first man in the Highlands to own a car. For a long time, the company was owned by the Chivas Regal group until it was sold recently to Gruppo Campari from Italy where Glen Grant sells more than the next top five Single Malts combined.
+  image: /img/portfolio/GlenGrant.jpg
+
+- name: Highland Park
+  description: Highland Park Distillery was founded on the island of Orkney in 1798 by Magnus Eunson and is the most northerly Single Malt distillery in Scotland. It malts its own barley and its water source comes from a well that is believed to run under the North Sea from mainland Scotland. Currently owned by the Edrington Group, owners of the Macallan, Highland Park was described as "The greatest all-rounder in the world of malt whisky" by the late famous whisky writer and expert, Michael Jackson. It is also the only malt ever to score 100% by the Scotsman, a national newspaper.
+  image: /img/portfolio/HighlandPark.jpg
+
+- name: Macallan
+  description: The Macallan Distillery was founded in 1824 at Easter Elchies near Craigellachie and close to the River Spey. It is the World's most highly acclaimed Single Malt by some distance. Owned by the Edrington group, they are nearing completion of a 250,000,000GBP expansion to meet the expected Global demand for the Premier Cru Single Malt. Currently stocks are low and all their expressions command a very high premium.
+  image: /img/portfolio/Macallan.jpg
+
+- name: Macduff
+  description: Macduff Distillery was founded in 1922 by Willian Lawson Distillers near a town of the same name. It was sometimes known as Glen Deveron. Originally owned by Martini & Rossi, it entered the stable of the Bacardi in 1992.
+  image: /img/portfolio/Macduff.jpg
+
+- name: Port Ellen
+  description: Port Ellen Distillery on the island of Islay was established in 1825 and acquired exactly 100 years later by the Distillers Company who change their name to Diagio. Unfortunately, they closed the distillery in 1983 to make way for a new Maltings and this most robust of Islay Malts was lost forever and only very few casks remain and are very sought after. Port Ellen was regarded as one of the strongest, ‘peatiest’ single malts ever distilled on the Island.
+  image: /img/portfolio/PortEllen.jpg
+
+- name: Springbank
+  description: Springbank Distillery in Campbelltown, was originally one of 26 Distilleries that operated in this region. Sadly, only Springbank and one other distillery survived the great depression, where higher transport costs eventually drove all the others out of business. Springbank has a perfect combination of the Island distilleries and the mainland Speyside Malt. Soft and mellow - a Whisky connoisseurs delight.
+  image: /img/portfolio/Springbank.jpg
+
+- name: Tomatin
+  description: Tomatin Distillery was founded in 1897 but unfortunately floundered (went bankrupt) in 1906. It was re-established in 1909, but went bankrupt again 1986. The distillery was then bought by Takara Shuzo of Japan. It was the largest Single malt distillery in its day and relied on selling its whisky for blending as it had not established itself as a particularly well-known brand. Serious efforts have been made over the last decade to rectify this, as the whisky itself is very good indeed.
+  image: /img/portfolio/Tomatin.jpg

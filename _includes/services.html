@@ -1,0 +1,18 @@
+<section id="services" class="services">
+  <div class="container text-center">
+    <h3>Unique and Futuristic</h3>
+    <div class="services">
+      <!-- 4 on laptop, 2 on tablet, 1 on phone -->
+      {% for service in site.data.services %}
+        <div class="col-sm-3">
+          <span class="fa-stack fa-4x">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa {{ service.icon }} fa-stack-1x services-icon"></i>
+          </span>
+          <h4><strong>{{ service.name }}</strong></h4>
+          <p>{{ service.description }}</p>
+        </div>
+      {% endfor %}
+    </div> <!-- /.services -->
+  </div> <!-- /.container -->
+</section>

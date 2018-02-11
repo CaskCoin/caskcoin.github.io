@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+  <section id="whisky_portfolio" class="whisky">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+          </br></br>
+          <p class="lead text-center">CaskCoin has been able to secure some of the most notable examples from the most famous distilleries, those most favoured by blenders and some of those distilleries that are today no longer in production.</p>
+
+          <p>The CaskCoin Warehouse is predominantly a selection of aged Single Malts which have been matured for between 25 and 50 years. They represent some of the finest and most sought after Single Malts of today - with many similar (but only very occasionally available) achieving record prices at auction. They come from all the famous distillery regions of Scotland.</p>
+
+          <div id="portfolio" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+              {% for distillery in site.data.portfolio %}
+              <li data-target="#portfolio" data-slide-to="{{ forloop.index0 }}"></li>
+              {% endfor %}
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner">
+              {% for distillery in site.data.portfolio %}
+              <div class="item">
+                <img src={{ distillery.image | quote }} alt={{ distillery.name | quote }}>
+                <div class="carousel-caption">
+                  <h3>{{ distillery.name }}</h3>
+                  <p class="portfolio-caption">{{ distillery.description }}</p>
+                </div>
+              </div>
+              {% endfor %}
+            </div>
+
+            <!-- Left and right controls -->
+            <a class="left carousel-control" href="#portfolio" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#portfolio" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right"></span>
+              <span class="sr-only">Next</span>
+            </a>
+
+          </div>
+        </div>
+      </div>
+      <p></p>
+    </div>
+    <p></p>
+  </section>

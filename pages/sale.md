@@ -1,0 +1,4 @@
+---
+layout: sale
+permalink: /sale/
+---

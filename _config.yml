@@ -1,0 +1,29 @@
+# Site settings
+title: CaskCoin
+description: > # this means to ignore newlines until "baseurl:"
+  CaskCoin is an asset backed cryptocurrency. CaskCoin combines blockchain
+  technology with a physical asset investment in the form of maturing Scotch
+  Whisky.
+baseurl: ""
+url: "http://www.caskcoin.com"
+
+# User setting
+owner: CaskCoin
+email: info@caskcoin.com
+facebook_username: CaskCoin
+twitter_username: CaskCoin
+github_username: CaskCoin
+copyright: CaskCoin
+
+# Google Analytics
+google_tracking_id: UA-112518593-1
+
+# Build settings
+markdown: kramdown
+
+# exclude vendor for travis
+exclude: [vendor]
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed

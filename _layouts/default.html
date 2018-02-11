@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include headers.html %}
+    {% include stylesheets.html %}
+    {% include scripts.html %}
+  </head>
+  <body>
+    {% include tag_manager.html %}
+    {% include navigation.html %}
+
+    {% if page.title %}
+    <header id="top" class="{{ page.header | default: header-full }}">
+      <div class="text-vertical-center">
+        <h1>{{ page.title }}</h1>
+        {% if page.description %}
+        <h2>{{ page.description }}</h2>
+        {% endif %}
+      </div>
+    </header>
+    {% endif %}
+
+    {{ content }}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {% include services.html %}
+      </div>
+    </div>
+
+    {% include whitepaper.html %}
+
+    {% include mailchimp.html %}
+  </body>
+
+  {% include footer.html %}
+
+</html>

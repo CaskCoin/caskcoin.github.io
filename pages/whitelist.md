@@ -1,0 +1,4 @@
+---
+layout: whitelist
+permalink: /whitelist/
+---
