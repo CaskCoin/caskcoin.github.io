@@ -14,6 +14,24 @@
 
         <hr class="small">
 
+        <div class="container col-sm-12 text-center small">
+
+          <h4><strong><span property="name">{{ site.contact.name }}</span></strong></h4>
+          <h6>Company number {{ site.contact.company_number }}</h6>
+          <div property="address" vocab="http://schema.org/" typeof="PostalAddress">
+            <p>
+              <span property="addressLocality">{{ site.contact.locality }}</span><br>
+              <span property="addressRegion">{{ site.contact.region }}</span><br>
+              <span property="addressCountry">{{ site.contact.country_name }}</span><br>
+              <span property="postalCode">{{ site.contact.postal_code }}</span><br>
+            </p>
+          </div>
+          <h6>Telephone {{ site.contact.phone }}</h6>
+          <h6>Private company limited by guarantee without share capital</h6>
+        </div>
+
+        <hr class="small">
+
         <p class="text-muted">Copyright &copy; {{ site.copyright }} {{ site.time | date: '%Y' }}</p>
 
       </div>
