@@ -1,9 +1,9 @@
 - name: Cryptocurrency
-  description: CaskCoin is an asset backed ERC20 cryptocurrency. Each token will represent legal ownership of each cask of whisky underpinning CaskCoin.
+  description: CaskCoin is issuing asset backed EIP 1155 utility token, on behalf of Titanic Distillery. Each token will represent legal ownership of a case each of whiskey.
   icon: fa-btc
 
 - name: Asset Backed
-  description: Each CaskCoin token will be backed by physical Scotch Whisky making this cryptocurrency unique and sustainable with sound recurring income re-invested to ensure future growth.
+  description: Each token will be backed by physical Titanic Distillery Whiskey making this cryptocurrency unique.
   icon: fa-money
 
 - name: Investment
@@ -11,5 +11,5 @@
   icon: fa-bank
 
 - name: Transparent
-  description: In order to ensure complete transparency and to drive additional value to the assets, Caskcoin Limited will utilize the arc-net secure private blockchain for immutable compliance records.
+  description: In order to ensure complete transparency and to drive additional value to the assets, Caskcoin Belfast Limited will manage the management of miniting, issueing and deployment on the polygon chain.
   icon: fa-qrcode
