@@ -1,28 +1,27 @@
 # Site settings
 title: CaskCoin
 description: > # this means to ignore newlines until "baseurl:"
-  CaskCoin is an asset backed cryptocurrency. CaskCoin combines blockchain
-  technology with a physical asset investment in the form of maturing Scotch
-  Whisky.
+  CaskCoin combines blockchain technology with a physical asset investment in the form of maturing Irish
+  Whiskey.
 baseurl: ""
 url: "http://www.caskcoin.com"
 
 # User setting
 owner: CaskCoin
 email: info@caskcoin.com
-facebook_username: CaskCoin
+* facebook_username: CaskCoin
 twitter_username: CaskCoin
 github_username: CaskCoin
 copyright: CaskCoin
 
 contact:
-  name: CASKCOIN HOLDINGS LIMITED
-  company_number: SC588354
-  locality: 21 Forbes Place
-  region: Paisley
-  postal_code: PA1 1UT
-  country_name: Scotland
-  phone: 0141 849 2090
+  name: CASKCOIN BELFAST LIMITED
+  company_number: NI693312
+* locality: 21 Forbes Place
+* region: Paisley
+* postal_code: PA1 1UT
+  country_name: N. Ireland
+* phone: 0141 849 2090
 
 # Google Analytics
 google_tracking_id: UA-112518593-1

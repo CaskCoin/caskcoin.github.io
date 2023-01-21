@@ -1,4 +1,4 @@
 ---
-layout: whitelist
+layout: Register
 permalink: /whitelist/
 ---
