@@ -1,6 +1,6 @@
 ---
 layout: whisky_history
-title: Whisky
+title: Whiskey
 description: History & Production
 permalink: /whisky/history/
 header: header-flow
