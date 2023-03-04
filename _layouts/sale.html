@@ -23,6 +23,8 @@ layout: default
     </div>
   </section>
 
+  <p id="countdown"></p>
+
   <script>
   // Set the date we're counting down to
   var countDownDate = new Date("2023-03-31T12:00:00Z");
@@ -45,14 +47,13 @@ layout: default
     var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
     // Display the result in the element with id="countdown"
-   // document.getElementById("countdown").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+       document.getElementById("countdown").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
 
-      countdown.innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
 
     // If the count down is finished, write some text
     if (distance < 0) {
       clearInterval(x);
-      countdown.innerHTML = "Sale Now On!";
+      document.getElementById("countdown").innerHTML = "Sale Now On!";
     }
   }, 1000);
     
