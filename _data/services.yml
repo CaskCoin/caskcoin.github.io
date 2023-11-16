@@ -3,7 +3,7 @@
   icon: fa-btc
 
 - name: Asset Backed
-  description: Each token will be backed by physical Titanic Distillery Whiskey making this cryptocurrency unique.
+  description: Each token entitles the holder to a 6 bottle case of Titanic Distillery Whiskey.
   icon: fa-money
 
 - name: Investment
@@ -11,5 +11,5 @@
   icon: fa-bank
 
 - name: Transparent
-  description: In order to ensure complete transparency and to drive additional value to the assets, Caskcoin Belfast Limited will manage the management of miniting, issueing and deployment on the polygon chain.
+  description: In order to ensure complete transparency and to drive additional value to the assets, Caskcoin Belfast Limited will manage the miniting, issueing and deployment of tokens on the polygon chain.
   icon: fa-qrcode
